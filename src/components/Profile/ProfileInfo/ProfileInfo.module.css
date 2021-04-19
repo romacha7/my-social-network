@@ -1,0 +1,21 @@
+.descriptionBlock {
+    padding: 1%;
+}
+
+.descriptionBlock .mainPhoto {
+    max-width: 200px;
+    border-radius: 5%;
+}
+
+.descriptionBlock .input {
+    margin-left: 18%;
+    margin-top: -2%;
+}
+
+.contact {
+    padding-left: 1%;
+}
+
+.editForm {
+    padding: 1%;
+}

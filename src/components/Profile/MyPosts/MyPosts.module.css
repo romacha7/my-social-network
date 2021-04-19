@@ -1,0 +1,11 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.postsBlock .headerPosts {
+    font-style: italic;
+}
+
+.posts {
+    margin-top: 10px;
+}

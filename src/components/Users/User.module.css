@@ -1,0 +1,25 @@
+.mainUsers {
+    padding: 1%;
+}
+
+.mainUsers .users {
+    border: 1px solid deepskyblue;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+
+.mainUsers .users .buttons {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.mainUsers .users .userPhoto {
+    width: 100px;
+    height: 100px;
+}
+
+.mainUsers .inform {
+    padding-left: 13%;
+    margin-top: -10%;
+}
+
